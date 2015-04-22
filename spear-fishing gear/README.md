@@ -18,18 +18,21 @@ Blueplints of joint components are available in SVG Format.
 ### ジョイント金具 / Joints
 |(A)|(B)|(C)|(D)|
 |:---------:|:-----------------:|:--------:|:-:|
-|![joint(A)](./svgs/A.SVG)|![joint(B)](./svgs/B.SVG)|![joint(C)](./svgs/C.SVG)|![joint(D)](./svgs/D.SVG)|
+|![joint(A)](./pngs/A.png)|![joint(B)](./pngs/B.png)|![joint(C)](./pngs/C.png)|![joint(D)](./pngs/D.png)|
 紐を結ぶ、石突き<br>ferrule to tie strings|雄ねじ付きジョイント<br>joint with male screw|雌ねじ付きジョイント<br>joint with female screw|銛先押し棒用ジョイント<br>joint of spear head holder|
+|[SVG](./svgs/A.svg)|[SVG](./svgs/B.svg)|[SVG](./svgs/C.svg)|[SVG](./svgs/D.svg)|
 
 
 ### (E) 銛先押し棒 / Spear head holder
 ![Spear head holder](./svgs/E.SVG)
+[SVG](./svgs/E.svg)
 
 端点に銛先をホールドします。  
 This holds spear head at the endpoint.
 
 ### (F) torque tool
 ![torque tool](./svgs/F.SVG)
+[SVG](./svgs/F.svg)
 
 固着したジョイント金具のネジを回すためのトルクバーです。  
 This is extension bar to boost torque to screw fixed joints.
