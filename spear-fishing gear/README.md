@@ -100,6 +100,6 @@ Harvest it as soon as possible.
     ![String absorbs power of fish.](./jpgs/03_keep.jpg)
 
 
-## なぜ水中銃を使わないか？ / Why not spear gun?
+## なぜ水中銃を使わないか？ / Why not spear guns?
 日本において、水中銃は各都道府県の漁業調整規則によって禁止漁具に指定されています。  
 Spear guns are prohibited in Japan.
