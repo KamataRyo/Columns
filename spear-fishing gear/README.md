@@ -24,18 +24,22 @@ Blueplints of joint components are available in SVG Format.
 
 
 ### (E) 銛先押し棒 / Spear head holder
-![Spear head holder](./svgs/E.SVG)
+![Spear head holder](./pngs/E.png)  
 [SVG](./svgs/E.svg)
 
 端点に銛先をホールドします。  
 This holds spear head at the endpoint.
 
 ### (F) torque tool
-![torque tool](./svgs/F.SVG)
+![torque tool](./pngs/F.png)  
 [SVG](./svgs/F.svg)
 
 固着したジョイント金具のネジを回すためのトルクバーです。  
 This is extension bar to boost torque to screw fixed joints.
+
+
+## 全ての図面をpdf形式でダウンロード / All in one pdf
+[PDF](./pdfs/blueprint.pdf)
 
 ## 組み立て方 / How to assemble?
 以下の順番で組み立てます。  
